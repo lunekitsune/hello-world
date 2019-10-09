@@ -1,3 +1,3 @@
 # hello-world
-Hello World demo for class
-Derp
+Derp.
+That is all...
